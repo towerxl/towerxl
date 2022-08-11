@@ -1,5 +1,5 @@
-# 
-- 👋 Iae man meu nome é Tower
+# Me Descrevendo
+- 👋 Iae man, meu nome é Tower
 - 👀 Eu tô interessado em aprender coisas relacionadas a tecnologia
 - :smiling_imp: Eu costumo ver vídeos no youtube
 - :speech_balloon: Eu estudo no Colégio Marechal Rondon
